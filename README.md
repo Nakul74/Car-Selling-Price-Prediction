@@ -1,5 +1,5 @@
 # Car-Selling-Price-Prediction
-
+#### Predicts the selling price of car given car's information
 #### app link
 https://carpricepredictionherokuapp.herokuapp.com/
 
